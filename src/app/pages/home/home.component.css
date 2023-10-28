@@ -1,0 +1,20 @@
+.content {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.articles {
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    flex-direction: row;
+    max-width: 70%
+}
+
+
+.small_card {
+    margin-bottom: 30px;
+}

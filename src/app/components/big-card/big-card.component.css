@@ -1,0 +1,15 @@
+.container__big-card {
+
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 600px;
+    margin-right: 10px;
+    justify-content: flex-start;
+    align-items: flex-start;
+
+}
+
+.big-card_photo > img{
+    min-width: 400px;
+}
