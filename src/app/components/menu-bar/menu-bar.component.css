@@ -1,0 +1,12 @@
+.container__menu-bar {
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 120px;
+}
+
+.container__menu-bar > a {
+    list-style: none;
+    text-decoration: none;
+}
